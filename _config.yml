@@ -7,7 +7,7 @@ cta:
   bucket: null
   version: null
 analytics:
-  google: null
+  google: Matt Frantz
   facebook: null
   twitter: null
 opengraph:
