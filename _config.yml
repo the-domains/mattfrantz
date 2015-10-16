@@ -1,7 +1,7 @@
-name: null
+name: MattFrantz
 favicon: null
-layout_spectrum: 0.8
-typography_spectrum: 0.5
+layout_spectrum: 0.7824070972856134
+typography_spectrum: 0.32364873914048076
 cta:
   domain: null
   bucket: null
@@ -19,6 +19,7 @@ color:
   brandStrength: 0
   lightness: 0.5
   saturation: 0.5
+  rhythmicContrast: 0.19474436435848475
 purpose:
   - name: shares
     item: null
